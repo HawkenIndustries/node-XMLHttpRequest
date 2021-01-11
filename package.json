@@ -1,7 +1,7 @@
 {
   "name": "xmlhttprequest",
   "description": "XMLHttpRequest for Node",
-  "version": "1.8.1",
+  "version": "1.8.1a",
   "author": {
     "name": "Dan DeFelippi",
     "url": "http://driverdan.com"
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+    "url": "git://github.com/HawkenIndustries/node-XMLHttpRequest.git"
   },
   "browser": "./lib/browser.js",
-  "bugs": "http://github.com/driverdan/node-XMLHttpRequest/issues",
+  "bugs": "http://github.com/HawkenIndustries/node-XMLHttpRequest/issues",
   "engines": {
     "node": ">=0.4.0"
   },
